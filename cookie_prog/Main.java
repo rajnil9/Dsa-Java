@@ -1,6 +1,6 @@
-package O_C;
+package cookie_prog;
 
-import O_C.Cookie;
+import cookie_prog.Cookie;
 
 public class Main {
     public static void main(String[] args) {

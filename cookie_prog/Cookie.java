@@ -1,4 +1,4 @@
-package O_C;
+package cookie_prog;
 
 public class Cookie {
     private String color;
